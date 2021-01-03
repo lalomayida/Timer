@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="points">0</string>
+    <string name="time">60</string>
+</resources>
